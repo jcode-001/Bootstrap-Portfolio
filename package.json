@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-portfolio",
+  "version": "1.0.0",
+  "description": "first bootstrap project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss:assets/css"
+  },
+  "keywords": [
+    "portfolio",
+    "bootstrap-portfolio",
+    "portflio-design"
+  ],
+  "author": "Josiah Olaleye",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.66.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "bootstrap": "^5.3.1"
+  }
+}
